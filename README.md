@@ -3,6 +3,7 @@ Wikipedia bot
 
 ## Install requirements
 `pip install telebot`
+
 `pip install wikipedia`
 
 ## Launch the bot
